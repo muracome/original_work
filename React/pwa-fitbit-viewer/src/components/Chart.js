@@ -10,7 +10,7 @@ import Select from '@material-ui/core/Select';
 import FormGroup from '@material-ui/core/FormGroup';
 
 
-const AUTH = 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMkQ4RE0iLCJzdWIiOiI2R0g3TUYiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJzZXQgcmFjdCBybG9jIHJ3ZWkgcmhyIHJudXQgcnBybyByc2xlIiwiZXhwIjoxNTU0NjQzMTAxLCJpYXQiOjE1NTQwNDIzNTR9.osMpuMF_EQy6aVuYHDJHo-_nXnfp2BAdXBvHyltdcNg';
+const AUTH = 'YOUT_Authorization';
 
 // const API_URL = 'https://api.fitbit.com/1/user/-/activities/tracker/calories/date/2019-03-26/2019-04-01.json';
 // const API_URL = 'https://api.fitbit.com/1/user/-/activities/tracker/steps/date/2019-03-26/2019-04-01.json';
